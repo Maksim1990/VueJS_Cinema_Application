@@ -79,7 +79,7 @@ Main SPA view
 Item view (based on routing functionality)
 ![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/VueJS_Cinema_Application/master/public/images/web2.png)
 
-###Mobile version of Cinema VueJS SPA
+### Mobile version of Cinema VueJS SPA
 
 Main SPA view
 ![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/VueJS_Cinema_Application/master/public/images/mob1.png)
