@@ -1,4 +1,4 @@
-# Post Store Vue.js SPA application
+# Cinema Vue.js SPA application with filtering and routing implementation
 
 #### Pre-installation
 
@@ -75,4 +75,16 @@
 
 7. Your site will be available at *localhost:[PORT]* where `PORT` is whatever value is set in your `.env` file.
 
-![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/VueJS_Cinema_Application/master/src/web1.png)
+Main SPA view
+![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/VueJS_Cinema_Application/master/public/images/web1.png)
+
+Item view (based on routing functionality)
+![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/VueJS_Cinema_Application/master/public/images/web2.png)
+
+###Mobile version of Cinema VueJS SPA
+
+Main SPA view
+![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/VueJS_Cinema_Application/master/public/images/mob1.png)
+
+Item view (based on routing functionality)
+![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/VueJS_Cinema_Application/master/public/images/mob2.png)
