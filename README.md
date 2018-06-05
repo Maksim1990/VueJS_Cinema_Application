@@ -29,13 +29,13 @@
         ```
         cd /path/to/install/location
         
-        git clone https://github.com/Maksim1990/VueJS_Post_Store_APP.git
+        git clone https://github.com/Maksim1990/VueJS_Cinema_Application.git
         ```
 
 2. Change directory into the local clone of the repository
 
     ```
-    cd VueJS_Post_Store_APP
+    cd VueJS_Cinema_Application
     ```
 
 3. Install dependencies
@@ -56,14 +56,23 @@
     copy .env_sample .env
     ```
     
-    Now edit the *.env* file and replace the `IMGUR_CLIENT_ID` with the client ID provided in the pre-installation
     
 5. Start project
 
     ```
     npm run start
     ```
+    
+ 6. Compile CSS & JS assets
 
-6. Your site will be available at *localhost:[PORT]* where `PORT` is whatever value is set in your `.env` file.
+    ```
+    npm run dev
+    ```
+    or
+     ```
+    npm run watch
+    ```
 
-![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/VueJS_Post_Store_APP/master/src/vueShop_v1.png)
+7. Your site will be available at *localhost:[PORT]* where `PORT` is whatever value is set in your `.env` file.
+
+![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/VueJS_Cinema_Application/master/src/web1.png)
