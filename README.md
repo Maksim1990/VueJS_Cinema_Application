@@ -15,8 +15,6 @@
 > - vue-router
 
 
-
-
 #### Installation
 
 1. Install this code on your local system
